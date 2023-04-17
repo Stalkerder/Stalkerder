@@ -1,7 +1,7 @@
- Olá 눈_눈 Me apresento como Stalker Red
+Hi 눈_눈 I introduce myself as Stalker Red.
 
-- ☠ Desenvolvo e faço testes de Scripts para estudos
-- 💻 Integração de API/rest
+- ☠ I develop and test scripts for learning purposes.
+- 💻 API/REST Integration
 - 👾 Pentester 
 
  <div>
